@@ -1,5 +1,4 @@
 # Text-classification---spam-or-ham
-# Image-Retrieval
 ## **Overview**
 This project will focus on constructing spam or ham mail classification application
 The rest content of this article guide how to set up and run execution
